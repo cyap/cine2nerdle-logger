@@ -2,7 +2,7 @@ javascript: (() => {
     /* * * * * * * * */
     /* Configuration */
     /* * * * * * * * */
-    const OUTPUT_TYPE = 'both'; /* Options: yaml, json */
+    const OUTPUT_TYPE = 'yaml'; /* Options: yaml, json */
     const OUTPUT_LOCATION = 'DOWNLOAD'; /* Options: DOWNLOAD, WINDOW, TAB */
 
     const FILE_PREFIX = "cine-battle";
