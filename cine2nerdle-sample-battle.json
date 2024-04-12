@@ -1,0 +1,235 @@
+{
+    "movies": [
+        {
+            "name": "Miss Pettigrew Lives for a Day (2008)",
+            "connections_prev": [
+                {
+                    "name": "LEE PACE",
+                    "xCount": 2
+                }
+            ],
+            "turn": 17,
+            "skip": false
+        },
+        {
+            "name": "A Single Man (2009)",
+            "connections_prev": [
+                {
+                    "name": null,
+                    "xCount": 0
+                }
+            ],
+            "turn": 16,
+            "skip": true
+        },
+        {
+            "name": "A Single Man (2009)",
+            "connections_prev": [
+                {
+                    "name": "LEE PACE",
+                    "xCount": 1
+                }
+            ],
+            "turn": 15,
+            "skip": false
+        },
+        {
+            "name": "Bodies Bodies Bodies (2022)",
+            "connections_prev": [
+                {
+                    "name": "RACHEL SENNOTT",
+                    "xCount": 1
+                }
+            ],
+            "turn": 14,
+            "skip": false
+        },
+        {
+            "name": "Shiva Baby (2021)",
+            "connections_prev": [
+                {
+                    "name": "FRED MELAMED",
+                    "xCount": 1
+                }
+            ],
+            "turn": 13,
+            "skip": false
+        },
+        {
+            "name": "A Serious Man (2009)",
+            "connections_prev": [
+                {
+                    "name": "JOEL COEN",
+                    "xCount": 1
+                },
+                {
+                    "name": "ETHAN COEN",
+                    "xCount": 1
+                },
+                {
+                    "name": "+1 MORE LINK(S)",
+                    "xCount": "?"
+                }
+            ],
+            "turn": 12,
+            "skip": false
+        },
+        {
+            "name": "Burn After Reading (2008)",
+            "connections_prev": [
+                {
+                    "name": "BRAD PITT",
+                    "xCount": 1
+                },
+                {
+                    "name": "GEORGE CLOONEY",
+                    "xCount": 1
+                }
+            ],
+            "turn": 11,
+            "skip": false
+        },
+        {
+            "name": "Ocean's Twelve (2004)",
+            "connections_prev": [
+                {
+                    "name": "MATT DAMON",
+                    "xCount": 1
+                }
+            ],
+            "turn": 10,
+            "skip": false
+        },
+        {
+            "name": "We Bought a Zoo (2011)",
+            "connections_prev": [
+                {
+                    "name": "CAMERON CROWE",
+                    "xCount": 1
+                },
+                {
+                    "name": "JON THOR BIRGISSON",
+                    "xCount": 1
+                }
+            ],
+            "turn": 9,
+            "skip": false
+        },
+        {
+            "name": "Aloha (2015)",
+            "connections_prev": [
+                {
+                    "name": "EMMA STONE",
+                    "xCount": 2
+                }
+            ],
+            "turn": 8,
+            "skip": false
+        },
+        {
+            "name": "Marmaduke (2010)",
+            "connections_prev": [
+                {
+                    "name": "EMMA STONE",
+                    "xCount": 1
+                }
+            ],
+            "turn": 7,
+            "skip": false
+        },
+        {
+            "name": "Ghosts of Girlfriends Past (2009)",
+            "connections_prev": [
+                {
+                    "name": "MATTHEW MCCONAUGHEY",
+                    "xCount": 1
+                }
+            ],
+            "turn": 6,
+            "skip": false
+        },
+        {
+            "name": "Magic Mike (2012)",
+            "connections_prev": [
+                {
+                    "name": "CHANNING TATUM",
+                    "xCount": 1
+                }
+            ],
+            "turn": 5,
+            "skip": false
+        },
+        {
+            "name": "Bullet Train (2022)",
+            "connections_prev": [
+                {
+                    "name": "JOEY KING",
+                    "xCount": 1
+                }
+            ],
+            "turn": 4,
+            "skip": false
+        },
+        {
+            "name": "Ramona and Beezus (2010)",
+            "connections_prev": [
+                {
+                    "name": "SANDRA OH",
+                    "xCount": 0
+                }
+            ],
+            "turn": 3,
+            "skip": false
+        },
+        {
+            "name": "Sideways (2004)",
+            "connections_prev": [
+                {
+                    "name": "THOMAS HADEN CHURCH",
+                    "xCount": 0
+                }
+            ],
+            "turn": 2,
+            "skip": false
+        },
+        {
+            "name": "Max (2015)",
+            "connections_prev": [
+                {
+                    "name": "THOMAS HADEN CHURCH",
+                    "xCount": 0
+                }
+            ],
+            "turn": 1,
+            "skip": false
+        },
+        {
+            "name": "All About Steve (2009)",
+            "connections_prev": [],
+            "turn": 0,
+            "skip": false
+        }
+    ],
+    "you": "p_mow",
+    "opponent": "Guest11837655478",
+    "your_parity": true,
+    "result": "🏆 BATTLE WON",
+    "turns": "18",
+    "streak": "6",
+    "last_movie": "Miss Pettigrew Lives for a Day (2008)",
+    "movie1": "All About Steve (2009)",
+    "movie2": "Max (2015)",
+    "your_skip": null,
+    "opponent_skip": "A Single Man (2009)",
+    "your_lifelines": {
+        "skip": true,
+        "cast": true,
+        "time": true
+    },
+    "opponent_lifelines": {
+        "skip": false,
+        "cast": false,
+        "time": true
+    },
+    "date": 1712893922740
+}
