@@ -1,7 +1,7 @@
 import os
 import json
 
-def get_games(path, prefix='cine'): 
+def get_games(archive_path, prefix='cine'): 
     archive = os.listdir(archive_path)
     filenames = [archive_path + p for p in archive if p.endswith('json')]
 
